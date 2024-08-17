@@ -1,7 +1,6 @@
 # Obligatorio
 
-El obligatorio de **Estructuras de Datos y Algoritmos 2**, para el semestre
-1 de 2024, está compuesto por un conjunto de **10** problemas a resolver.
+El obligatorio de **Estructuras de Datos y Algoritmos 2** está compuesto por un conjunto de **10** problemas a resolver.
 
 ## Reglas
 
@@ -51,7 +50,6 @@ El obligatorio de **Estructuras de Datos y Algoritmos 2**, para el semestre
 ## Pruebas
 
 La cátedra proveerá un conjunto de casos de prueba, pares de entrada y salida esperada. Se deberá comparar la salida de la solución contra una salida esperada.
-Se irán publicando a medida que transcurra el semestre en el siguiente [enlace](https://github.com/Algoritmos-2/A2-obligatorio-2024-S1-letra/tree/main/tests).
 
 ## Formato de entrega
 
