@@ -3,7 +3,7 @@
 El documento del obligatorio debe contener la siguiente contenido:
 -   Carátula con los datos de los estudiantes.
 -   Breve explicación de la solución de cada problema.
--   Justificación de la complejidad temporal de cada problema.
+-   Justificación de la complejidad temporal de cada problema (sólo en el caso que haya restricciones planteadas en el enunciado).
 -   Declaración de autoría para cada problema. Leer [este enlace](/autoria).
 -   Una tabla que resuma los resultados obtenidos en los casos de prueba provistos por la cátedra.
     -   Los resultados posibles son:
