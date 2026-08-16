@@ -17,8 +17,9 @@
     * [Pruebas](/?id=pruebas)
     * [Formato de entrega](/?id=formato-de-entrega)
         * [Código fuente](/formato?id=formato-de-entrega-código-fuente)
-        * [Documentación](/documentacion?id=documentación)
+        * [Bitácora](/documentacion?id=bitácora)
             * [Autoría](/autoria?id=autoría)
+    * [Uso de IA](/uso-ia?id=uso-de-ia)
     * [Defensa](/defensa?id=defensa)
     * [Entrega](/?id=entrega)
 

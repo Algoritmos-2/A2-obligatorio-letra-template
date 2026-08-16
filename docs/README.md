@@ -62,7 +62,8 @@ La cátedra proveerá un conjunto de casos de prueba, pares de entrada y salida 
 ## Formato de entrega
 
 - El formato del **código fuente** de la entrega se encuentra definido en [este enlace](/formato).
-- Además, se deberá entregar un **informe/documentación** en formato pdf que contenga lo definido en [este enlace](/documentacion).
+- Además, se deberá entregar una **bitácora** en formato markdown que contenga lo definido en [este enlace](/documentacion).
+- El uso de herramientas de IA está permitido bajo las pautas definidas en [este enlace](/uso-ia).
 
 > No se deben entregar `pruebas`, `archivos compilados` ni `scripts` para correr las pruebas.
 
@@ -82,14 +83,14 @@ La cátedra proveerá un conjunto de casos de prueba, pares de entrada y salida 
 - Los códigos dados en clase como algoritmos encontrados de otras
   fuentes serán usados como referencia.
 
-- La falta de documentación o la falta de citación de fuentes
+- La falta de bitácora o la falta de citación de fuentes
   implicará la pérdida de puntos.
 
 - **Se utilizará MOSS para detectar copias.**
 
 ## Defensa
 
-Los detalles de la defensa se encuentran en [este enlace](/defensa).
+Hay dos defensas escritas, presenciales y obligatorias: la primera en la clase siguiente a la entrega y la segunda junto con el segundo parcial. Los detalles se encuentran en [este enlace](/defensa).
 
 ## Entrega
 
